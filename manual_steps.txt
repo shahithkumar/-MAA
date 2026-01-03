@@ -1,0 +1,46 @@
+MANUAL STARTUP STEPS
+====================
+
+To run the project manually, you need to open 3 separate terminal (PowerShell or Command Prompt) windows.
+
+---------------------------------------------------------
+WINDOW 1: DJANGO BACKEND
+---------------------------------------------------------
+1. Open a terminal.
+2. Navigate to the project root folder:
+   cd c:\Users\shahi\OneDrive\Documents\Mental_Health_App_Backend
+
+3. Activate the Virtual Environment:
+   .\venv\Scripts\activate
+
+4. Start the Server:
+   python manage.py runserver
+
+   (It should say "Starting development server at http://127.0.0.1:8000/")
+
+---------------------------------------------------------
+WINDOW 2: ML INFERENCE SERVER
+---------------------------------------------------------
+1. Open a NEW terminal.
+2. Navigate to the ML Server folder:
+   cd c:\Users\shahi\OneDrive\Documents\Mental_Health_App_Backend\ml_inference_server
+
+3. Activate the SAME Virtual Environment (from the root):
+   ..\venv\Scripts\activate
+
+4. Start the ML Engine:
+   uvicorn main:app --reload --port 8001
+
+   (It should say "Uvicorn running on http://127.0.0.1:8001")
+
+---------------------------------------------------------
+WINDOW 3: FLUTTER FRONTEND
+---------------------------------------------------------
+1. Open a NEW terminal.
+2. Navigate to the Frontend folder:
+   cd c:\Users\shahi\OneDrive\Documents\Mental_Health_App_Backend\mental_health_app_frontend
+
+3. Run the App:
+   flutter run
+
+   (Select your emulator or device if asked)

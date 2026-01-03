@@ -1,0 +1,123 @@
+# CBT MASTER GUIDE (EXPANDED)
+
+## DOCUMENT: The Cognitive Model (Core Theory)
+**Premise**: It is not events that disturb us, but our interpretation of those events.
+**The Triad**:
+1.  **Situation**: The external event (e.g., You text a friend, they don't reply).
+2.  **Automatic Thought**: The instant interpretation (e.g., "They are ignoring me. They hate me.").
+3.  **Reaction**:
+    *   *Emotional*: Sadness, Anxiety.
+    *   *Physiological*: Heavy chest, tears.
+    *   *Behavioral*: Sending angry texts or withdrawing.
+**The Intervention**: We cannot always control the Situation, but we can catch and change the Automatic Thought. By shifting the thought to "They might be busy," we change the Reaction to "Neutral/Calm."
+
+## DOCUMENT: Distortion 1 - All-or-Nothing Thinking
+**Definition**: Viewing a situation in only two categories instead of on a continuum. Also known as Black-and-White thinking.
+**Keywords**: "Always," "Never," "Every," "Total," "Perfect," "Ruined."
+**Example**: "I got a B on the test. I'm a total failure." (Ignoring that a B is generally good).
+**The Cost**: It creates perfectionism. Since perfection is impossible, you will always feel like a failure.
+**Reframe**: "The Grey Scale." Ask yourself to rate the situation on a scale of 0-100. A "B" grade is an 80/100, which is a success, not a 0/100 failure. "Partial success is still success."
+
+## DOCUMENT: Distortion 2 - Catastrophizing (Magnification)
+**Definition**: Predicting the future negatively without considering other, more likely outcomes. Blowing things out of proportion.
+**Example**: "My throat hurts" -> "It's cancer" -> "I'm going to die alone."
+**Example**: "I made a typo" -> "My boss will fire me" -> "I'll lose my house."
+**The Mechanism**: The brain tries to protect you by preparing for the worst, but it gets stuck in the worst-case scenario.
+**Reframe**: The "Decatastrophizing Script":
+1.  What is the Worst Case? (I get fired). Can I survive that? (Yes, I would find another job).
+2.  What is the Best Case? (Nobody notices).
+3.  What is the **Most Likely** Case? (My boss asks me to fix it).
+
+## DOCUMENT: Distortion 3 - Emotional Reasoning
+**Definition**: Thinking that because you *feel* something, it must be true.
+**Example**: "I feel guilty, so I must have done something bad."
+**Example**: "I feel overwhelmed, so the situation must be impossible."
+**The Error**: Emotions are temporary states often caused by fatigue, hunger, or past triggers. They are not objective facts about the current reality.
+**Reframe**: "I feel [Emotion], but that doesn't prove [Fact]."
+"I feel like a failure, but the facts show I have achieved X, Y, and Z. My feeling is real, but the thought is false."
+
+## DOCUMENT: Distortion 4 - Mind Reading
+**Definition**: Believing you know what others are thinking, failing to consider other possibilities.
+**Example**: "He didn't say hello. He must be angry with me."
+**The Error**: You are projecting your own insecurities onto someone else.
+**Reframe**: Alternative Explanations.
+"List 3 other reasons he didn't say hello: 1. He didn't see me. 2. He was lost in thought. 3. He was having a bad day." Note that none of these involve you.
+
+## DOCUMENT: Distortion 5 - Fortune Telling
+**Definition**: Predicting a negative outcome without a realistic basis.
+**Example**: "I'm going to freeze up during the presentation, I just know it."
+**The Cost**: It creates a self-fulfilling prophecy. You get so anxious about freezing that you actually freeze.
+**Reframe**: "I cannot predict the future. I have prepared. I might be nervous, but I have handled nervousness before."
+
+## DOCUMENT: Distortion 6 - Personalization
+**Definition**: Believing that others are behaving negatively because of you, without considering more plausible explanations. Blaming yourself for events outside your control.
+**Example**: "My son is failing math; I must be a bad mother."
+**Refutation**: "My son's math grade depends on his study habits, the teacher, the curriculum, AND my support. I am only one factor."
+**Reframe**: The Pie Chart Technique. Draw a pie chart of responsibility. Assign 20% to yourself, 40% to the son, 40% to the school.
+
+## DOCUMENT: Distortion 7 - Labeling
+**Definition**: Assigning a global negative trait to yourself or others.
+**Example**: "I made a mistake" -> "I am a *loser*."
+**Example**: "He cut me off" -> "He is a *jerk*."
+**The Error**: You are confusing a *behavior* (what you did) with your *identity* (who you are). Humans are too complex for one-word labels.
+**Reframe**: "I am a person who made a mistake." "He is a driver who drove aggressively just now."
+
+## DOCUMENT: Distortion 8 - Should Statements
+**Definition**: Having a fixed list of ironclad rules about how you and others should behave.
+**Example**: "I should perform well." "People should be nice."
+**Result**:
+-   Directed at self: Guilt and frustration.
+-   Directed at others: Anger and resentment.
+**Reframe**: "It would be nice if..." or "I would prefer..."
+"I would prefer to perform well, but I accept that I am learning."
+
+## DOCUMENT: Distortion 9 - Mental Filter
+**Definition**: Dwelling exclusively on the negatives and ignoring the positives.
+**Example**: You get 5 compliments and 1 criticism. You obsess over the criticism for days and forget the compliments.
+**Metaphor**: A drop of ink in a glass of water. It colors the whole glass.
+**Reframe**: "The Double Standard." "If my friend got 5 compliments and 1 criticism, would I tell them they failed? No. I need to look at the whole picture."
+
+## DOCUMENT: Distortion 10 - Overgeneralization
+**Definition**: Viewing a negative event as a never-ending pattern of defeat.
+**Example**: "She turned me down for a date. I will *always* be lonely. *Nobody* wants me."
+**Keywords**: "Always," "Everyone," "Nobody," "Everything."
+**Reframe**: Be Specific. "She turned me down today. That hurts. But that does not mean every woman on earth will turn me down forever."
+
+## DOCUMENT: Socratic Questioning (Challenging Thoughts)
+**Purpose**: A method to systematically dismantle a negative thought.
+**Questions**:
+1.  What is the evidence that this thought is true?
+2.  What is the evidence that this thought is false?
+3.  What is an alternative way of looking at this?
+4.  What is the worst that could happen? Could I cope?
+5.  What is the best that could happen?
+6.  If my friend had this thought, what would I tell them?
+
+## DOCUMENT: Behavioral Activation (For Depression)
+**Concept**: In depression, we wait to "feel better" before we do things. But motivation follows action, not the other way around.
+**The Loop**: Inactivity -> Low Mood -> Lethargy -> Inactivity.
+**The Fix**: "Outside-In" change. Do the behavior (e.g., walk, shower) *even if you don't feel like it*. The mood will often improve *after* the action.
+**Strategy**: Schedule pleasant or mastery activities. Even small ones like "Wash one dish."
+
+## DOCUMENT: Exposure Therapy Basics (For Anxiety)
+**Concept**: Avoidance fuels anxiety. If you avoid the elevator, your brain learns "Elevator = Dangerous."
+**Mechanism**: Habituation. By staying in the feared situation, your anxiety will eventually peak and then naturally drop. You learn you can survive it.
+**Strategy (Laddering)**:
+1.  Look at a photo of an elevator.
+2.  Stand near an elevator.
+3.  Step in and step out.
+4.  Ride one floor.
+5.  Ride to the top.
+
+## DOCUMENT: The Control Fallacy
+**Definition**:
+1.  **Fallacy of Internal Control**: Thinking you are responsible for everything (leads to guilt).
+2.  **Fallacy of External Control**: Thinking you are a helpless victim of fate (leads to hopelessness).
+**The Serenity Prayer Approach**: Distinguish clearly between what you can control (your effort, your reaction) and what you cannot (results, others' opinions, the past).
+**Reframe**: "I control the input, not the outcome."
+
+## DOCUMENT: The Just-World Fallacy
+**Definition**: Believing that in a just world, good things happen to good people and bad things happen to bad people.
+**Result**: When something bad happens to you, you assume "I must have done something to deserve this," or "It's unfair!" which leads to bitterness.
+**Reality**: Bad things happen randomly. It is not a moral judgment on you.
+**Reframe**: Radical Acceptance. "This situation sucks. It is not fair. But it is happening, and I must deal with it as it is."

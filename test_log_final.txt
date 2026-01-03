@@ -1,0 +1,17 @@
+﻿--- Testing Dynamic Mood Tracker ---
+Logging in as testmood_dynamic@example.com...
+[SUCCESS] Login successful.
+
+Logging multiple moods for user 28...
+  - Logged: Joyful
+  - Logged: Joyful
+  - Logged: Sad
+  - Logged: Joyful
+
+[SUCCESS] Trend established.
+
+Fetching Mood Summary...
+[SUCCESS] Summary Check Passed:
+  - Dominant Mood: None (Expected: Joyful)
+  - Total Entries: None
+  - Summary: In the past week, you felt calm 3 times and stressed 0 times. Your happiest moments were usually between 1 PM - 4 PM. 

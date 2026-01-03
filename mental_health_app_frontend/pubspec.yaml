@@ -1,0 +1,56 @@
+name: mental_health_app
+description: A Flutter mental health application
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.19.0 <4.0.0"   # Updated to support latest packages
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Core UI & Animation
+  fl_chart: ^0.68.0
+  flutter_animate: ^4.5.0
+  google_fonts: ^6.2.1
+  table_calendar: ^3.0.9
+  flutter_lucide: ^0.7.0
+
+  # Audio & Media
+  audioplayers: ^6.1.0
+  flutter_tts: ^4.0.2
+  record: ^6.1.2  # Kept the newer version; removed duplicate
+  flutter_vibrate: ^1.3.0
+
+  # File & Storage
+  file_picker: ^10.3.3
+  flutter_secure_storage: ^9.2.2
+  path_provider: ^2.1.4
+  shared_preferences: ^2.2.2
+
+  # Location & Launch
+  geolocator: ^13.0.1
+  url_launcher: ^6.3.0
+
+  # Networking & Utils
+  http: ^1.2.2
+  intl: ^0.18.0
+  permission_handler: ^12.0.1
+
+  # === NEWLY ADDED FOR TRI-MODAL JOURNAL ===
+  camera: ^0.11.3           # For selfie & live camera
+  camera_web: ^0.3.5+3
+  youtube_player_flutter: ^9.0.1
+  flutter_drawing_board: ^1.0.0
+  percent_indicator: ^4.2.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/

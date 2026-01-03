@@ -1,0 +1,70 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Django
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+media/
+staticfiles/
+
+# Environment Variables (CRITICAL)
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Logs and results
+*_log.txt
+*_results.txt
+*_log.csv
+chat_log.csv
+analysis_output*.txt
+test_output.txt
+raw_res.txt
+backend_test_log.txt
+migration_log.txt
+
+# Database backups/scripts
+*.sql
+
+# Flutter/Frontend specific (if not covered by sub-gitignore)
+mental_health_app_frontend/build/
+mental_health_app_frontend/.dart_tool/
+mental_health_app_frontend/.flutter-plugins
+mental_health_app_frontend/.flutter-plugins-dependencies
+mental_health_app_frontend/.metadata
+mental_health_app_frontend/.packages
+mental_health_app_frontend/pubspec.lock
+# Large ML Models
+*.pth
+*.pt
+*.bin
+*.h5
+*.pkl
+# Optional: keep small models if needed, but safer to ignore all large weights
+# ravdess_ser_speech_model.keras is small (4.8MB), we can keep it or ignore it.
+# Let's ignore all .keras to be safe unless specifically needed.
+*.keras
+

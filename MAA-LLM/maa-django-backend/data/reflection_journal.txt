@@ -1,0 +1,88 @@
+# REFLECTION & JOURNALING PROMPTS (EXPANDED)
+
+## DOCUMENT: Daily Mood Check-In (The Weather Report)
+**Purpose**: To develop emotional awareness and identify patterns in your mental state. Emotional granularity (being able to name your specific emotion) is key to regulation.
+**Context**: We often go through the day on autopilot, ignoring our internal state until we snap. This exercise forces a mindful pause.
+
+**The Prompt**:
+1.  **Internal Weather**: If you were a landscape right now, what would the weather be?
+    *   *Examples*: "Sunny but with cold wind" (Happy but anxious), "Thick fog" (Confused/Numb), "Hurricane" (Overwhelmed). Describe the temperature, the visibility, and the sky.
+2.  **Energy Audit**: On a scale of 1-10, where is your battery?
+    *   *1-3*: Emergency Mode. prioritizing rest is not lazy, it's necessary.
+    *   *4-6*: Maintenance Mode. Do the basics, but don't take on new projects.
+    *   *7-10*: Growth Mode. Ready to tackle challenges.
+3.  **The Body Scan**: Where are you holding tension? Check your jaw, shoulders, and stomach.
+4.  **One Need**: Complete the sentence: "To get through the rest of the day, I really need..." (e.g., a glass of water, a hug, 5 minutes of silence).
+
+## DOCUMENT: The Anxiety Brain Dump
+**Purpose**: To externalize recursive worry loops. When worries stay in your head, they bounce around and magnify. Writing them down captures them.
+**Context**: Anxiety often thrives on vague sense of doom. Naming the specific fears strips them of their power.
+
+**The Prompt**:
+1.  **Set the Timer**: 5 minutes exactly.
+2.  **The Dump**: Write down every single thing you are worried about right now. Don't worry about grammar or logic. "I'm worried about the exam. I'm worried I look stupid. I'm worried about climate change."
+3.  **The Sorthing Hat**: Go through your list and put an 'C' next to things within your Control, and a 'U' next to things Uncontrollable.
+4.  **The Action Plan**: Pick *one* 'C' item and write down the very first tiny step you can take. (e.g., "Find the textbook").
+5.  **The Release**: For the 'U' items, visualize placing them in a box, locking it, and putting it on a shelf. You have acknowledged them; you don't need to carry them.
+
+## DOCUMENT: Challenging Negative Thoughts (CBT Record)
+**Purpose**: To move from emotional reasoning to evidence-based thinking.
+**Context**: Our brains are velcro for negative thoughts and teflon for positive ones. This exercise forces you to act as a lawyer for the defense.
+
+**The Prompt**:
+1.  **The Trigger**: What happened just before your mood dipped? (e.g., "My boss sent an email asking for a meeting.")
+2.  **The Automatic Thought**: What did you tell yourself? (e.g., "I'm in trouble. I'm going to get fired.")
+3.  **The Emotion**: Name it and rate it 1-100. (e.g., "Fear: 90/100").
+4.  **Evidence FOR the Thought**: Be a prosecutor. mental facts only. (e.g., "I made a typo last week.")
+5.  **Evidence AGAINST the Thought**: Be the defense attorney. (e.g., "I hit my sales target. He usually emails about routine updates. I haven't had any warnings.")
+6.  **The Balanced View**: Rewrite the thought. (e.g., "I'm anxious about the meeting because I don't know the agenda, but there is no evidence I'm in trouble. I can prepare by reviewing my recent work.")
+
+## DOCUMENT: The "Good Enough" Statement (Perfectionism Detox)
+**Purpose**: To combat the "Inner Critic" that demands perfection and leads to paralysis.
+**Context**: Perfectionism is not the same as high standards; it is fear of failure. This prompt helps you separate your worth from your output.
+
+**The Prompt**:
+1.  **Identify the Standard**: What specific rule are you holding yourself to right now? (e.g., "I must write this essay perfectly on the first draft.")
+2.  **The Cost**: What is this standard costing you? (e.g., "I'm procrastinating because I'm scared to start. I'm stressed.")
+3.  **Define "Good Enough"**: What would a "B-minus" version of this look like? (e.g., "Just getting 500 words on the page, even if they are messy.")
+4.  **The Mantra**: Write it out: "Today, I give myself permission to be a beginner. A messy draft is better than a perfect blank page. I am enough even if my work is not perfect."
+
+## DOCUMENT: Values Alignment Check
+**Purpose**: To ensure your daily actions are serving the person you want to be, reducing existential stress.
+**Context**: We often feel "off" when our actions drift away from our core values.
+
+**The Prompt**:
+1.  **identify 3 Core Values**: What matters most to you? (e.g., Kindness, Creativity, Health, Freedom, Stability).
+2.  **The Review**: Look at your last 24 hours.
+    *   Did my actions reflect Value #1? (e.g., "I value Health, but I sat for 8 hours straight.")
+3.  **The Re-Alignment**: What is *one* small adjustment I can make tomorrow to honor one of these values? (e.g., "I will take a 15-minute walk at lunch to honor Health.")
+4.  **Self-Compassion**: Forgive yourself for the misalignment. It's a correction, not a failure.
+
+## DOCUMENT: Post-Episode Compassionate Review
+**Purpose**: To analyze a panic attack, angry outburst, or depressive spiral without shame.
+**Context**: Usually, after an episode, we beat ourselves up ("I'm so weak"). This creates a secondary layer of shame. This exercise emphasizes learning over judging.
+
+**The Prompt**:
+1.  **The Facts**: Briefly, what happened? (e.g., "I yelled at my partner.")
+2.  **The Vulnerability Factors**: What made me susceptible? (e.g., "I slept 4 hours. I skipped lunch. I was already stressed about money.")
+3.  **The Early Warning Signs**: Looking back, did my body give me a clue? (e.g., "My chest felt tight an hour before.")
+4.  **The Repair**: What do I need to do to repair the situation (apologize) and repair myself (rest)?
+5.  **The Kindness**: Write one sentence of forgiveness to yourself. (e.g., "I was pushed to my limit and I snapped. I am human. I will apologize and try to sleep more tonight.")
+
+## DOCUMENT: Gratitude for the Negative (Reframing)
+**Purpose**: To find resilience in difficult situations.
+**Context**: Standard gratitude is easy ("I like coffee"). Advanced gratitude finds growth in challenge.
+
+**The Prompt**:
+1.  **The Challenge**: Name a difficulty you are facing. (e.g., "My leg is broken.")
+2.  **The Hidden Gift**: What has this forced you to learn or appreciate? (e.g., "It forced me to slow down. It showed me how kind my friends are who visited.")
+3.  **The Strength**: What personal strength is this drawing out of you? (e.g., "Patience. Resilience.")
+
+## DOCUMENT: Future Self Visualization
+**Purpose**: To build hope and disconnect from immediate distress.
+**Context**: When depressed, the future feels blank or scary. Visualizing a positive future generates dopamine and motivation.
+
+**The Prompt**:
+1.  **The Time Jump**: Imagine yourself 1 year from today. You are doing well.
+2.  **The Scene**: Where are you? Who are you with? What are you doing? Be specific. (e.g., "I am sitting in a coffee shop reading a book. I feel calm.")
+3.  **The Advice**: Ask your Future Self for advice on your current problem. What do they say? (e.g., "They tell me to just keep going, that this week won't matter in a year.")

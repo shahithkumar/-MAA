@@ -1,0 +1,102 @@
+# COPING STRATEGIES & FUNCTIONING (EXPANDED)
+
+## DOCUMENT: The Golden Rules of Sleep Hygiene
+**Context**: Sleep is not just "rest"; it is neurobiological cleaning. During deep sleep, the "glymphatic system" flushes toxins (like beta-amyloids) from the brain. Chronic poor sleep mimics symptoms of anxiety and depression.
+**The Protocol**:
+1.  **Consistency is King**: Wake up at the same time every single day, even weekends. This anchors your circadian rhythm (body clock). Sleeping in on Saturday gives you "Social Jetlag" on Monday.
+2.  **Morning Light**: View bright sunlight (outdoors) for 10-20 minutes within 30 minutes of waking. This triggers cortisol (to wake you up) and sets a timer for melatonin release 16 hours later.
+3.  **The Digital Sunset**: Screens emit blue light, which tells the brain it is noon. Stop all screens 60 minutes before bed. Read fiction, stretch, or listen to a podcast instead.
+4.  **Temperature**: The body needs to drop its core temperature by 2-3 degrees to initiate sleep. Keep the bedroom cool (65°F / 18°C) or take a hot bath before bed (the rebound cooling effect helps).
+5.  **Caffeine & Alcohol**: Caffeine has a half-life of 6 hours. Coffee at 4 PM means 50% is still in your system at 10 PM. Stop caffeine by 12 PM. Alcohol helps you *pass out*, but it ruins *sleep quality* (fragments REM).
+
+## DOCUMENT: Exam Stress & Academic Coping
+**Context**: Academic anxiety usually stems from feeling overwhelmed ("There is too much to know") or unprepared.
+**Strategies**:
+1.  **Chunking**: The brain cannot process "Study Biology." It can process "Read Chapter 3, pages 10-20." Break the mountain into gravel.
+2.  **Active Recall**: Re-reading notes is the *least* effective way to learn (it creates the "illusion of competence"). Instead, close the book and try to explain the concept. If you can't, you don't know it.
+3.  **Spaced Repetition**: Review material at intervals: 1 day later, 3 days later, 1 week later. This fights the "Forgetting Curve."
+4.  **The Pomodoro Technique**: Work for 25 minutes, Break for 5. This prevents cognitive fatigue. During the break, do NOT look at your phone (which fatigues the brain). Look at a wall or walk.
+
+## DOCUMENT: Building a Depression-Proof Routine
+**Context**: Depression steals structure. Without structure, time becomes an amorphous blob, which increases anxiety and lethargy.
+**The "M.E.D.S." Protocol**:
+1.  **M - Meditation/Mindfulness**: 5-10 minutes a day to observe thoughts without engaging.
+2.  **E - Exercise**: Move the body for 20 minutes. It releases BDNF (Brain-Derived Neurotrophic Factor), which acts like fertilizer for brain cells.
+3.  **D - Diet**: Avoid sugar spikes. The gut-brain axis is real; inflammation in the gut causes inflammation in the brain (fog/depression).
+4.  **S - Sleep**: Adhere to the hygiene rules.
+**Tip**: Start small. A routine of "Brush teeth + Drink water" is better than a perfect 10-step routine you never do. "Anything worth doing is worth doing poorly."
+
+## DOCUMENT: Digital Detox & Social Media Coping
+**Context**: Social media is designed to be addictive (Variable Reward Schedules). It triggers:
+-   **Comparison**: "Compare and Despair." Viewing everyone's highlight reel against your behind-the-scenes.
+-   **FOMO**: Fear of Missing Out.
+-   **Dopamine Burnout**: Constant scrolling creates a high baseline for stimulation, making real life feel boring.
+**Strategies**:
+1.  **Phone-Free Zones**: No phones in the bedroom. Buy an old-school alarm clock. No phones at the dinner table.
+2.  **Greyscale Mode**: Turn your phone to Black & White (Accessibility settings). Without color, the red notification badges lose their urgency.
+3.  **The "Why" Pause**: Before unlocking your phone, ask: "Why? Am I bored? Anxious? Lonely?" If you are lonely, text a friend instead of scrolling.
+4.  **Curate Your Feed**: Unfollow anyone who generates feelings of inadequacy. Follow art, nature, or comedy accounts instead.
+
+## DOCUMENT: Work Stress & Boundaries
+**Context**: Burnout often comes from "Role Ambiguity" (not knowing what success looks like) or "Lack of Control."
+**Strategies**:
+1.  **Define "Done"**: What does a finished day look like? Close your laptop effectively.
+2.  **The "No" Sandwich**: How to say no: "Thank you for thinking of me for this (Slice 1). I don't have capacity right now given my focus on Project X (Meat). Let me know if we can discuss this next month (Slice 2)."
+3.  **Transition Ritual**: Create a bridge between Work Mode and Home Mode. Change your clothes. Walk the dog. Do not bring work stress to the dinner table.
+4.  **Batching**: Check email only 3 times a day (e.g., 9 AM, 1 PM, 4 PM). Constant email checking reduces IQ by 10 points (switching cost).
+
+## DOCUMENT: "Eat The Frog" (Procrastination)
+**Context**: Mark Twain said, "If it's your job to eat a frog, it's best to do it first thing in the morning."
+**The Psychology**: We procrastinate not because we are lazy, but to avoid the *negative emotion* (fear/boredom) associated with the task.
+**Strategy**:
+1.  Identify the ONE thing you are dreading most.
+2.  Do it first thing in the morning, before checking email/phone.
+3.  **The 5-Minute Rule**: Tell yourself, "I will just do this for 5 minutes. If I want to stop, I can." Usually, starting is the hardest part (friction). Once moving, you will likely continue.
+
+## DOCUMENT: Managing Social Battery (Introversion)
+**Context**: Socializing is expensive energy-wise for introverts.
+**Signs of Depletion**: Irritability, zoning out, physical fatigue, desire to hide.
+**Strategy**:
+1.  **Scheduled Solitude**: Block out time on your calendar for "Nothing." Treat it like a doctor's appointment.
+2.  **The Irish Exit**: You do not need a long goodbye. It's okay to leave a party early to preserve your mental health.
+3.  **Quality over Quantity**: 1 hour with a close friend is restorative. 3 hours of small talk is draining.
+4.  **Communication**: "I've had a long week and need to recharge tonight. Let's catch up on Sunday." (Validating your need without rejecting the person).
+
+## DOCUMENT: SMART Goals (Motivation)
+**Context**: Vague goals ("I want to be happy/healthy") fail because they are not actionable.
+**Structure**:
+-   **S - Specific**: Not "Exercise more," but "Run 5k."
+-   **M - Measurable**: "3 times a week."
+-   **A - Achievable**: Is this realistic given my schedule?
+-   **R - Relevant**: Does this align with my values?
+-   **T - Time-bound**: "By December 31st."
+**Example**: "I will mediate for 5 minutes (M) every morning (T) after brushing my teeth (Trigger)."
+
+## DOCUMENT: The "Worry Time" Technique
+**Context**: Anxiety wants 24/7 attention. This technique contains it.
+**Strategy**:
+1.  Schedule "Worry Time" daily (e.g., 5:00 PM to 5:15 PM).
+2.  During the day, if a worry pops up, write it down and say: "Not now. I will worry about you at 5:00."
+3.  At 5:00 PM, sit down and worry INTENSELY. Go through the list. Problem solve.
+4.  At 5:15 PM, stop. Say "Time's up." Go do something else.
+**Result**: You regain control over your day, and often by 5:00 PM, the worries feel less urgent.
+
+## DOCUMENT: Deep Work vs. Shallow Work
+**Context**: Shallow work (email, meetings, slack) keeps us busy but unfulfilled. Deep work (creating, thinking) provides satisfaction but is hard.
+**Strategy**:
+1.  Protect your peak energy hours (usually morning) for Deep Work.
+2.  Defend this time. "I am in a focus block."
+3.  Multitasking is a myth. It is just "Review Switching," and it degrades quality. Mono-tasking is the goal.
+
+## DOCUMENT: Gratitude (The Science)
+**Context**: Evolution gave us a "Negativity Bias" (to navigate threats). Gratitude is the manual override to scan for safety and opportunity.
+**The Practice**: Write down 3 good things every evening.
+**The Twist**: Include *why* it happened. "I had a great coffee... because I took the time to brew it carefully." This builds a sense of agency (Internal Locus of Control).
+
+## DOCUMENT: Self-Compassion Break
+**Context**: We are often our own worst critics. Research shows self-criticism reduces motivation, while self-compassion increases resilience.
+**3 Elements**:
+1.  **Mindfulness**: "This is a moment of suffering. I am struggling right now." (Acknowledge).
+2.  **Common Humanity**: "Suffering is a part of life. I am not alone in this. Others feel this too." (Connect).
+3.  **Self-Kindness**: "May I be kind to myself. May I give myself the patience I need."
+**Action**: Place a hand on your heart and breathe warmly into it.

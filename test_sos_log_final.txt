@@ -1,0 +1,6 @@
+﻿--- Testing SOS Backend ---
+Logging in as test_sos_final_99@example.com...
+[SUCCESS] Login successful.
+
+Triggering SOS alert...
+[ERROR] SOS Failed (404): {"error":"User profile not found"}

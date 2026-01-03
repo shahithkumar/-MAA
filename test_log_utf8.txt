@@ -1,0 +1,23 @@
+﻿--- Testing Dynamic Mood Tracker ---
+Logging in as testmood_dynamic@example.com...
+[SUCCESS] Login successful.
+
+Logging multiple moods to establish a 'Joyful' trend...
+  - [ERROR] Failed to log Joyful: {"user":["This field is required."]}
+  - [ERROR] Failed to log Joyful: {"user":["This field is required."]}
+  - [ERROR] Failed to log Sad: {"user":["This field is required."]}
+  - [ERROR] Failed to log Joyful: {"user":["This field is required."]}
+
+[SUCCESS] Trend established.
+
+Fetching Mood Summary...
+[SUCCESS] Summary Check Passed:
+  - Dominant Mood: None (Expected: Joyful)
+  - Total Entries: None
+  - Summary: No mood logs for this week
+  - Suggestions: []
+
+[WARNING] Some fields might be missing or incorrect.
+
+Fetching weekly logs (for Dashboard Pulse)...
+[ERROR] No logs found in response.
